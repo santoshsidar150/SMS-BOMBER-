@@ -1,0 +1,6 @@
+{
+  "name": "QuickSMS",
+  "description": "A secure and efficient SMS sender companion to quickly compose and send text messages directly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
